@@ -1,4 +1,4 @@
-# 👋 Salut, Je suis N3tBreach!
+# 👋 Salut, Je suis Web!
 
 ```python
 print(f'Follow {N3tBreach} on Github')
@@ -22,11 +22,9 @@ print(f'Follow {N3tBreach} on Github')
 ## 💻 Setup & Languages
 
 ```python
-       OS  :  Ubuntu 22.04
+       OS  :  Debian
    Python  :  python 3.12.4
 Languages  :  Python, Golang, HTML/CSS
-  Discord  :  n3tbreach
-   Server  :  discord.gg/sxnergy
 ```
 
 ---
@@ -41,8 +39,7 @@ Languages  :  Python, Golang, HTML/CSS
 
 ## 🔗 Me Connaître
 
-- Serveur: [Join my server](https://discord.gg/sxnergy)
 - Abonnes toi sur github: [GitHub](https://github.com/N3tBreach)
-- Mon discord: `n3tbreach`
+- Location : Suisse
 
 ---

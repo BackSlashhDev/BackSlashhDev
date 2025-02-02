@@ -9,7 +9,7 @@ print(f'Follow {BackSlashhDev} on Github')
 ```json
 {
   "description": "Juste un dev",
-  "skills": ["Python", "Golang", "HTML/CSS"]
+  "skills": ["Python", "Golang", "C++"]
 }
 ```
 
@@ -31,15 +31,15 @@ Languages  :  Python, Golang, HTML/CSS
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Web-On-Dsc&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BackSlashhDev&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Web-On-Dsc&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BackSlashhDev&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
 ## 🔗 Me Connaître
 
-- Abonnes toi sur github: [GitHub](https://github.com/Web-On-Dsc)
+- Abonnes toi sur github: [GitHub](https://github.com/BackSlashhDev)
 - Location : Suisse
 
 ---

@@ -3,9 +3,9 @@
 
 ---
 
-- *🌍 Passionné d'informatique et de programmation, toujours curieux d'apprendre.  *
-- *🖥️ Actif sur Discord, j’aime échanger et partager avec la communauté.  *
-- *🛠️ Toujours prêt à relever de nouveaux défis techniques et à innover !  *
+- *🌍 Passionné d'informatique et de programmation, toujours curieux d'apprendre.*
+- *🖥️ Actif sur Discord, j’aime échanger et partager avec la communauté.*
+- *🛠️ Toujours prêt à relever de nouveaux défis techniques et à innover !*
 ---
 
 ## <a id="githubstats"></a>📊 〢 Github Stats

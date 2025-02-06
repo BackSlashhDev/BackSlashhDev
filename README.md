@@ -1,45 +1,17 @@
-# 👋 Salut, Je suis Web!
-
-```python
-print(f'Follow {BackSlashhDev} on Github')
-```
-
-## 🚀 À Propos De Moi 
-
-```json
-{
-  "description": "Juste un dev",
-  "skills": ["Python", "Golang", "C++"]
-}
-```
-
-- 🌍 Passionné par l'informatique et la programmation.
-- 🖥️ Membre actif de la communauté Discord.
-- 🛠️ Toujours à la recherche de nouveaux défis techniques !
+## <a id="aboutme"></a>🐉 〢 About Me
+*Développeur Suisse, en ce moment j'apprends React*
 
 ---
 
-## 💻 Setup & Languages
-
-```python
-       OS  :  Debian
-   Python  :  python 3.12.4
-Languages  :  Python, Golang, C++
-```
+- *🌍 Passionné par l'informatique et la programmation.*
+- *🖥️ Membre actif de la communauté Discord.*
+- *🛠️ Toujours à la recherche de nouveaux défis techniques !*
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BackSlashhDev&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BackSlashhDev&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+## <a id="githubstats"></a>📊 〢 Github Stats
+![](https://github-readme-stats.vercel.app/api?username=BackSlashhDev&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=BackSlashhDev&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=BackSlashhDev&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 ---
-
-## 🔗 Me Connaître
-
-- Abonnes toi sur github: [GitHub](https://github.com/BackSlashhDev)
-- Location : Suisse
-
----
+[![](https://visitcount.itsvg.in/api?id=BackSlashhDev&icon=2&color=12)](https://visitcount.itsvg.in)

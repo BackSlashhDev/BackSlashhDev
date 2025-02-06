@@ -24,7 +24,7 @@ print(f'Follow {BackSlashhDev} on Github')
 ```python
        OS  :  Debian
    Python  :  python 3.12.4
-Languages  :  Python, Golang, HTML/CSS
+Languages  :  Python, Golang, C++
 ```
 
 ---
